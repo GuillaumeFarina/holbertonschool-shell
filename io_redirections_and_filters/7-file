@@ -1,2 +1,2 @@
 #!/bin/bash
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | head -1 "Best School"
+touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | tail -1 "Best School"
