@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "list all" >> "ls_cwd_content" 
