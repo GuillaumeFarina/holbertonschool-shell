@@ -1,2 +1,2 @@
 #!/bin/bash
-file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | cat "Best School"
+touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | grep "Best School"
