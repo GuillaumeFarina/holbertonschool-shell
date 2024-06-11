@@ -1,2 +1,2 @@
 #!/bin/bash
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | cut -d "Best School"
+file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | cat "Best School"
