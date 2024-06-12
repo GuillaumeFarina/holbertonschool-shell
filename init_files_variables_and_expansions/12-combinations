@@ -1,4 +1,2 @@
 #!/bin/bash
-tr [a-z]
-tr 'oo'
-cut -f 'aa'
+tr [a-z] | tr 'oo' | cut -f 'aa'
