@@ -1,0 +1,4 @@
+#!/bin/bash
+tr [a-z]
+tr 'oo'
+cut -f 'aa'
