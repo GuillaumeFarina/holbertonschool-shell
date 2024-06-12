@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $global_var=School
+setvar BEST School
