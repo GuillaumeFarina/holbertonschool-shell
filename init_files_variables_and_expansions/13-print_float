@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%2.31f\n"
+export NUM=2.31 | printf "%2.31f\n"
