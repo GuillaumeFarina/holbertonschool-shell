@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [a-z] | grep -v 'oo' | cut -f 'aa' | wc -l
+tr 'a''z' | grep -v 'oo' | cut -f 'aa' | wc -l
