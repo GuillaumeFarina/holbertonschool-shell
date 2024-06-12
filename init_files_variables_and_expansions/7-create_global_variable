@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST="School" | grep -v "School"
+echo 'export BEST="School"' >> ~/.bashrc
