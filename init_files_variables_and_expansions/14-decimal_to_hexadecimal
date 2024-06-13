@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x" "$((2#$10))" $DECIMAL
+printf "%x" "$((2#$16))" $DECIMAL
