@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%3.14f \n" $MYNUM
+printf "%3.14f \n" $NUM
